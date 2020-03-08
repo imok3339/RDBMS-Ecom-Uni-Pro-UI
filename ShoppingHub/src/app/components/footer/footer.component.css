@@ -7,23 +7,27 @@
     color: white;
 }
 .subscribe{
-    border:5px solid black;
+    border:3px solid black;
     color: white;
     background-color: black;
-    height: 66px;
-    width: 250px;
+    height: 60px;
+    width: 230px;
     font-weight: 600;
     font-size: 27px;
-    padding-top: 5px;
+    padding-top: 3px;
     padding-bottom: 20px;
 
 }
 .endfooter{
     background-color: black;
-    color: wheat;
+    color: grey;
     padding-top: 40px;
     padding-left: 150px;
     padding-right: 30px;
     padding-bottom: 25px;
     font-family: sans-serif;
+}
+.subform{
+    width: 170px;
+    height: 60px;
 }

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One&display=swap');
 header{
     color: #cccccc;
     font-size: 13px;
@@ -20,4 +21,29 @@ header{
     font-size: 15px;
     font-weight: 900;
     font-family: sans-serif;
+}
+.search-button{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    border-right: 1px solid grey;
+    background-color:black ;
+}
+.sform{
+    background-color: black;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    border-left: 1px solid grey;
+    ;
+    
+}
+.search{
+   width: 230px;
+   margin-left: 60px;
+   
+}
+.logo{
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    font-size: 4em;
 }
