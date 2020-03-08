@@ -1,0 +1,23 @@
+header{
+    color: #cccccc;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: sans-serif;
+    
+}
+#header-top{
+    background-color: black;
+}
+#border{
+    border-bottom: solid grey 1px;
+    
+}
+.shop-cart{
+    color: white;
+    
+}
+#shiping-cart{
+    font-size: 15px;
+    font-weight: 900;
+    font-family: sans-serif;
+}

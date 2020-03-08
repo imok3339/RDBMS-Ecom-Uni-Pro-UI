@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #424242;
+    
+}
+a{
+    color: white;
+    
+}
+.dropdown-menu{
+    background-color: #424242;
+}
+li{
+    padding-left: 15px;
+    
+}
+.bg{
+    background-color: black;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }

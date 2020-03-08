@@ -1,0 +1,29 @@
+.mainfooter{
+    background-color: #424242;
+    color: gray;
+    padding: 5em;
+}
+.mainfooter h3{
+    color: white;
+}
+.subscribe{
+    border:5px solid black;
+    color: white;
+    background-color: black;
+    height: 66px;
+    width: 250px;
+    font-weight: 600;
+    font-size: 27px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+
+}
+.endfooter{
+    background-color: black;
+    color: wheat;
+    padding-top: 40px;
+    padding-left: 150px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    font-family: sans-serif;
+}
